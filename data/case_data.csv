@@ -1,0 +1,22 @@
+case_id,claimant_name,respondent_name,legal_area,claim_type,resolution_type,
+decision_date,award_amount,hearing_days,represented,tribunal_location
+UKET120001,Sarah Johnson,Tech Solutions Ltd,Employment,Unfair Dismissal,Compensation,2024-03-15,12500,3,Yes,London
+UKET120002,Michael Brown,Green Catering,Employment,Premium Pay,Won,2024-04-22,8000,2,No,Birmingham
+UKET120003,Emma Wilson,FinServe Group,Employment,Discrimination,Settlement,2024-05-10,35000,5,Yes,Manchester
+UKET120004,David Lee,Construction Co,Employment,Wage Claim,Won,2024-06-18,4500,1,No,Leeds
+UKET120005,Jessica Taylor,Healthcare NHS Trust,Employment,Victimisation,Compensation,2024-07-25,22000,4,Yes,London
+UKET120006,James Martin,Retail Plus,Employment,Redundancy,Lost,2024-08-12,0,2,No,Bristol
+UKET120007,Sophie Anderson,Digital Agency Ltd,Employment,Breach of Contract,Settlement,2024-09-30,15000,3,Yes,Manchester
+UKET120008,Oliver Thomas,Transport Union Co,Employment,Unfair Dismissal,Won,2024-10-15,9500,2,No,Glasgow
+UKET120009,Charlotte White,Edu Services,Employment,Discrimination,Compensation,2024-11-20,28000,4,Yes,London
+UKET120010,Daniel Harris,Retail Plus,Employment,Wage Claim,Won,2024-12-05,3200,1,No,Bristol
+UKET120011,Grace Robinson,Hotel Grand,Employment,Breach of Contract,Settlement,2024-01-18,11000,2,Yes,Brighton
+UKET120012,Thomas Walker,Clean Services,Employment,Victimisation,Lost,2024-02-28,0,3,No,London
+UKET120013,Isabella Clark,Creative Studios,Employment,Unfair Dismissal,Compensation,2024-03-22,18000,4,Yes,Birmingham
+UKET120014,Matthew Lewis,Finance Corp,Employment,Discrimination,Won,2024-04-10,45000,6,Yes,London
+UKET120015,Lucy Hall,Academy Schools,Employment,Wage Claim,Settlement,2024-05-25,6000,2,No,Manchester
+UKET120016,George Young,Logistics Ltd,Employment,Redundancy,Compensation,2024-06-15,7500,1,No,Leeds
+UKET120017,Amelia King,Media Group,Employment,Breach of Contract,Won,2024-07-30,20000,3,Yes,London
+UKET120018,William Scott,Restaurant Chain,Employment,Unfair Dismissal,Lost,2024-08-22,0,2,No,Cardiff
+UKET120019,Ella Green,Pharma Solutions,Employment,Discrimination,Settlement,2024-09-10,30000,5,Yes,Manchester
+UKET120020,Alexander Adams,Tech Innovate,Employment,Victimisation,Won,2024-10-28,16000,3,Yes,London
